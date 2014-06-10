@@ -25,6 +25,11 @@ C:\Users\NCStudent\Desktop\RecipesUI\obj\Debug\Recipes_MarkupCompile.cache
 C:\Users\NCStudent\Desktop\RecipesUI\obj\Debug\Recipes.g.resources
 C:\Users\NCStudent\Desktop\RecipesUI\obj\Debug\Recipes.Properties.Resources.resources
 C:\Users\NCStudent\Desktop\RecipesUI\obj\Debug\Recipes.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\bin\Debug\Recipes.exe.config
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\bin\Debug\Recipes.exe
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\bin\Debug\Recipes.pdb
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\bin\Debug\RecipeErrorClass.dll
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\bin\Debug\RecipeErrorClass.pdb
 C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\obj\Debug\Recipes.csprojResolveAssemblyReference.cache
 C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\obj\Debug\MainWindow.baml
 C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\obj\Debug\MainWindow.g.cs
@@ -33,10 +38,5 @@ C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\obj\Debug\Recipes_Ma
 C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\obj\Debug\Recipes.g.resources
 C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\obj\Debug\Recipes.Properties.Resources.resources
 C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\obj\Debug\Recipes.csproj.GenerateResource.Cache
-C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\bin\Debug\Recipes.exe.config
-C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\bin\Debug\Recipes.exe
-C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\bin\Debug\Recipes.pdb
 C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\obj\Debug\Recipes.exe
 C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\obj\Debug\Recipes.pdb
-C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\bin\Debug\RecipeErrorClass.dll
-C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\bin\Debug\RecipeErrorClass.pdb
