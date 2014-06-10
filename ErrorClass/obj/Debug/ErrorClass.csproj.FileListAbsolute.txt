@@ -1,0 +1,5 @@
+C:\RecipeProject\ErrorClass\bin\Debug\ErrorClass.dll
+C:\RecipeProject\ErrorClass\bin\Debug\ErrorClass.pdb
+C:\RecipeProject\ErrorClass\obj\Debug\ErrorClass.csprojResolveAssemblyReference.cache
+C:\RecipeProject\ErrorClass\obj\Debug\ErrorClass.dll
+C:\RecipeProject\ErrorClass\obj\Debug\ErrorClass.pdb

@@ -1,0 +1,19 @@
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\ncstudent\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+\\V2102-03\RecipeProject\exit button + recipe class wpf\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+\\V2102-03\RecipeProject\exit button + recipe class wpf\WpfApplication1\obj\Debug\WpfApplication1.exe
+\\V2102-03\RecipeProject\exit button + recipe class wpf\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\RecipeProject\exit button + recipe class wpf\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\RecipeProject\exit button + recipe class wpf\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\RecipeProject\exit button + recipe class wpf\WpfApplication1\obj\Debug\WpfApplication1.pdb
