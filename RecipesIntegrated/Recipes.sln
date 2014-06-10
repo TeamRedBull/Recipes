@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipes", "Recipes.csproj", "{BAB50306-FA2D-4AD1-BFF1-AB1F3D6FEBEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeErrorClass", "RecipeErrorClass\RecipeErrorClass.csproj", "{3C665D80-C46C-493C-B0BD-DDBB5BAAF7CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{BAB50306-FA2D-4AD1-BFF1-AB1F3D6FEBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAB50306-FA2D-4AD1-BFF1-AB1F3D6FEBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAB50306-FA2D-4AD1-BFF1-AB1F3D6FEBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C665D80-C46C-493C-B0BD-DDBB5BAAF7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C665D80-C46C-493C-B0BD-DDBB5BAAF7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C665D80-C46C-493C-B0BD-DDBB5BAAF7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C665D80-C46C-493C-B0BD-DDBB5BAAF7CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+C:\RecipeProject\ErrorClass\bin\Debug\ErrorClass.dll
+C:\RecipeProject\ErrorClass\bin\Debug\ErrorClass.pdb
+C:\RecipeProject\ErrorClass\obj\Debug\ErrorClass.csprojResolveAssemblyReference.cache
+C:\RecipeProject\ErrorClass\obj\Debug\ErrorClass.dll
+C:\RecipeProject\ErrorClass\obj\Debug\ErrorClass.pdb
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\ErrorClass\bin\Debug\ErrorClass.dll
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\ErrorClass\bin\Debug\ErrorClass.pdb
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\ErrorClass\obj\Debug\ErrorClass.dll
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\ErrorClass\obj\Debug\ErrorClass.pdb

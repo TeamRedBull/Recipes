@@ -1,0 +1,4 @@
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\RecipeErrorClass\bin\Debug\RecipeErrorClass.dll
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\RecipeErrorClass\bin\Debug\RecipeErrorClass.pdb
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\RecipeErrorClass\obj\Debug\RecipeErrorClass.dll
+C:\Users\Richard\Documents\GitHub\Recipes\RecipesIntegrated\RecipeErrorClass\obj\Debug\RecipeErrorClass.pdb
