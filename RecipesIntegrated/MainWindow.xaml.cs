@@ -65,6 +65,13 @@ namespace Recipes
             {
                 e.Cancel = true;
                 ___Errormessagelabel_.Visibility = Visibility.Visible;
+
+                string message = "Please click the exit button to exit application"; 
+
+                RecipeError EXITERROR = new RecipeError();
+                EXITERROR.ErrorMsg = message;
+
+                ___Errormessagelabel_.Content = EXITERROR.ErrorMsg;
             }
 
         }
