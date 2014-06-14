@@ -20,8 +20,10 @@ namespace Recipes
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+
     public partial class MainWindow : Window
     {
+    bool close = false;
         public MainWindow()
         {
             InitializeComponent();
@@ -31,10 +33,40 @@ namespace Recipes
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (MessageBox.Show("Are you sure you want to exit the application?", "WARNING", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+
+            ___GBexit_.Visibility = Visibility.Visible;
+            
+
+            //if (MessageBox.Show("Are you sure you want to exit the application?", "WARNING", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+            //{
+            //    this.Close();
+            //}
+        }
+
+        private void ___No__Checked(object sender, RoutedEventArgs e)
+        {
+            ___GBexit_.Visibility = Visibility.Hidden;
+        }
+
+        private void ___Yes__Checked(object sender, RoutedEventArgs e)
+        {
+            close = true;
+            this.Close(); 
+        }
+
+        private void Grid_Loaded(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            if (close != true)
             {
-                this.Close();
+                e.Cancel = true;
+                ___Errormessagelabel_.Visibility = Visibility.Visible;
             }
+
         }
     }
 }
