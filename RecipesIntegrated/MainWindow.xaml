@@ -19,7 +19,7 @@
         <TextBox x:Name="sizeTextBox" HorizontalAlignment="Left" Height="30" Margin="703,88,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <TextBlock x:Name="directionsTextBlock" HorizontalAlignment="Left" Margin="477,158,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="359" Width="184" Background="#FFFDFAFA" OpacityMask="#FF0C0000"/>
         <TextBlock x:Name="commentsTextBlock" HorizontalAlignment="Left" Margin="703,158,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="315" Width="131" Background="White"/>
-        <Button Content="Exit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Margin="703,495,0,0"/>
+        <Button Content="Exit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Margin="703,495,0,0" Click="Button_Click"/>
 
     </Grid>
 </Window>

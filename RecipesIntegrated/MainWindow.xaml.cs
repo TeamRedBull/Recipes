@@ -28,5 +28,13 @@ namespace Recipes
            
 
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (MessageBox.Show("Are you sure you want to exit the application?", "WARNING", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+            {
+                this.Close();
+            }
+        }
     }
 }
