@@ -1,0 +1,4 @@
+J:\New\RecipeClassLibrary\bin\Debug\RecipeClassLibrary.dll
+J:\New\RecipeClassLibrary\bin\Debug\RecipeClassLibrary.pdb
+J:\New\RecipeClassLibrary\obj\Debug\RecipeClassLibrary.dll
+J:\New\RecipeClassLibrary\obj\Debug\RecipeClassLibrary.pdb
